@@ -1,0 +1,26 @@
+# memberId|name|category|phone|borrowLimit
+1|Kavya Reddy|UG|9810000000|3
+2|Arjun Rao|UG|9810003791|3
+3|Meera Nair|UG|9810007582|3
+4|Rohit Verma|UG|9810011373|3
+5|Sneha Iyer|PG|9810015164|5
+6|Vikram Singh|PG|9810018955|5
+7|Ananya Das|PG|9810022746|5
+8|Karthik Raj|PhD|9810026537|8
+9|Pooja Sharma|PhD|9810030328|8
+10|Rahul Menon|PhD|9810034119|8
+11|Divya Kumar|UG|9810037910|3
+12|Sai Teja|UG|9810041701|3
+13|Nisha Patel|PG|9810045492|5
+14|Aditya Joshi|PG|9810049283|5
+15|Lakshmi Devi|PhD|9810053074|8
+9999|Limit Tester|UG|9999999999|3
+16|Manoj Kumar|UG|9810056865|3
+17|Ishita Roy|UG|9810060656|3
+18|Harsha Vardhan|PG|9810064447|5
+19|Priya Nair|UG|9810068238|3
+20|Dr. S. Murthy|Faculty|9810072029|10
+21|Prof. L. Rao|Faculty|9810075820|10
+22|Ramesh Babu|Staff|9810079611|4
+25|Shubham Jha|UG|9810053074|3
+28|Shubham Jha|UG|7667606926|3
